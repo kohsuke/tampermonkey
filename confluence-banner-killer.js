@@ -6,6 +6,7 @@
 // @author       You
 // @match        https://cloudbees.atlassian.net/wiki/spaces/*/pages/edit-v2/*
 // @grant        none
+// @downloadURL  https://raw.githubusercontent.com/kohsuke/tampermonkey/refs/heads/main/confluence-banner-killer.js
 // ==/UserScript==
 
 (function() {
